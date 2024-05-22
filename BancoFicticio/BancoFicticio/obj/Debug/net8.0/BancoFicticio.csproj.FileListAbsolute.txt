@@ -1,0 +1,14 @@
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\bin\Debug\net8.0\BancoFicticio.exe
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\bin\Debug\net8.0\BancoFicticio.deps.json
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\bin\Debug\net8.0\BancoFicticio.runtimeconfig.json
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\bin\Debug\net8.0\BancoFicticio.dll
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\bin\Debug\net8.0\BancoFicticio.pdb
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\obj\Debug\net8.0\BancoFicticio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\obj\Debug\net8.0\BancoFicticio.AssemblyInfoInputs.cache
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\obj\Debug\net8.0\BancoFicticio.AssemblyInfo.cs
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\obj\Debug\net8.0\BancoFicticio.csproj.CoreCompileInputs.cache
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\obj\Debug\net8.0\BancoFicticio.dll
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\obj\Debug\net8.0\refint\BancoFicticio.dll
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\obj\Debug\net8.0\BancoFicticio.pdb
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\obj\Debug\net8.0\BancoFicticio.genruntimeconfig.cache
+C:\Users\NESKI\Documents\Nova pasta\ConsoleApp1\BancoFicticio\BancoFicticio\obj\Debug\net8.0\ref\BancoFicticio.dll
